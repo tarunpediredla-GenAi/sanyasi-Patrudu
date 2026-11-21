@@ -1,0 +1,6 @@
+{
+  "name": "DevPort Personal Developer Portfolio",
+  "description": "A customizable, DevPort-inspired personal developer portfolio website featuring dark and light themes, animated hero showcase, project gallery, timeline, and validated contact workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
